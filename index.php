@@ -7,7 +7,7 @@
     <meta charset="UTF-8" />
     <title>sienna</title>
     <script src="https://aframe.io/releases/1.6.0/aframe.min.js"></script>
-    <script src="https://unpkg.com/aframe-physics-system@latest/dist/aframe-physics-system.min.js"></script>
+    <script src="https://unpkg.com/aframe-physics-system-fork/dist/aframe-physics-system.min.js"></script>
     
     <style>
     	<?php include "estilo/estilo.css"?>
